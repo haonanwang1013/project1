@@ -10,11 +10,11 @@
 ## 实现方法（共两种）	
 
 ### 1. 实现方法一	
-![方法一](http://a2.qpic.cn/psb?/c14afc9a-e033-4fe6-bcba-f14888f5d08f/SSxbpUVBNymEL2CjnwZG*zwYIBAp98Q0ehmf8sNaIe4!/m/dDUBAAAAAAAA&bo=IAOUAQAAAAARB4Y!&rf=photolist)		
+![方法一](http://a2.qpic.cn/psb?/c14afc9a-e033-4fe6-bcba-f14888f5d08f/SSxbpUVBNymEL2CjnwZG*zwYIBAp98Q0ehmf8sNaIe4!/m/dDUBAAAAAAAA&bo=IAOUAQAAAAARB4Y!&rf=photolist)		    
 通过 网络爬虫 借鉴批改网批改作文的方式		
 特点 ：能给出较全面的数据分析，如“高频词汇占比”， “学术词汇占比”， 及“总评分数”		
 ### 2 . 实现方法二	
-![方法二](http://a1.qpic.cn/psb?/c14afc9a-e033-4fe6-bcba-f14888f5d08f/Jop*6EcxWU2LzLMJrmh4XLDCZ4KCb6AjyJTusyOA1aE!/m/dDQBAAAAAAAA&bo=JQN6AgAAAAARB24!&rf=photolist)		
+![方法二](http://a1.qpic.cn/psb?/c14afc9a-e033-4fe6-bcba-f14888f5d08f/Jop*6EcxWU2LzLMJrmh4XLDCZ4KCb6AjyJTusyOA1aE!/m/dDQBAAAAAAAA&bo=JQN6AgAAAAARB24!&rf=photolist)		    
 从名著中获取大量词汇，建立并丰富自己的词汇库，通过将作文中词汇与词汇库中进行比较，识别出可能错误的词汇，并给出建议词汇		
 特点 ： 功能相对单一，目前仅能识别文章错误单词，但使用QT优化后，界面相对美观 	
 
